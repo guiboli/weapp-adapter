@@ -1,0 +1,23 @@
+{
+  "name": "weapp-adapter",
+  "version": "1.0.0",
+  "description": "weapp-adapter of Wechat Tiny Game in ES6",
+  "miniprogram": "src/index.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiboli/weapp-adapter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guiboli/weapp-adapter/issues"
+  },
+  "homepage": "https://github.com/guiboli/weapp-adapter#readme"
+}
